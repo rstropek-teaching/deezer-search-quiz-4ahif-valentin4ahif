@@ -1,0 +1,14 @@
+{
+  "name": "deezer-search-quiz-4ahif-valentin4ahif-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cors-proxy.js",
+  "scripts": {
+    "build": "tsc ./index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
